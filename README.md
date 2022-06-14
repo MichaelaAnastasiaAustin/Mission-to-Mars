@@ -27,6 +27,8 @@ VS Code, Jupyter Notebook, Flask, Splinter, Beautiful Soup, MongoDB, Web-Driver 
 ![hemi_images](https://github.com/MichaelaAnastasiaAustin/Mission-to-Mars/blob/main/images/hemi_images.png)
 
 *Deliverable 3: Add Bootstrap 3 Components*
-- We successfully updated the web app to make it mobile-responsive, and add two additional Bootstrap 3 components to make it stand out ( x and z).
+- We successfully updated the web app to make it mobile-responsive, and added two additional Bootstrap 3 components to make it stand out (changed the main website title to blue text and italicized the title of the latest Mars news article).
+
+![bootstrap_components](https://github.com/MichaelaAnastasiaAustin/Mission-to-Mars/blob/main/images/bootstrap_components.png)
 
 
